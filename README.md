@@ -59,6 +59,7 @@ This section provides a quick overview of the installation steps. For detailed i
     1. Open Looker Studio and create a new Data Source.
     2. Choose `Build Your Own` and use the API ID generated from the script project.
 
+If you need more details, please read: https://developers.google.com/looker-studio/connector
 ---
 
 ## Configuration
