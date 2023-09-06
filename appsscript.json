@@ -1,0 +1,12 @@
+{
+  "dataStudio": {
+    "name": "REDCap-LookerStudio-Connector",
+    "logoUrl": "https://wiki.uiowa.edu/download/attachments/173638770/r_only_logo_high_res.png",
+    "company": "Stanford University",
+    "companyUrl": "https://redcap.stanford.edu",
+    "addonUrl": "https://github.com/aandresalvarez/REDCap-LookerStudio-Connector",
+    "supportUrl": "https://github.com/aandresalvarez/REDCap-LookerStudio-Connector/issues",
+    "description": "To use the REDCap-LookerStudio-Connector, you need: 1. The API URL for your REDCap instance. 2. The API token for your REDCap Project. The connector integrates data from REDCap into Looker Studio.",
+    "sources": [""]
+  }
+}
