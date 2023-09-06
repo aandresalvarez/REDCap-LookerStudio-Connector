@@ -56,7 +56,7 @@ function getConfig(request) {
     .newTextInput()
     .setId('redcap_token')
     .setName('Enter REDCap API token.')
-    .setHelpText("To obtain an API token for a project, navigate to that project, then click the API link in the Applications sidebar. On that page you will be able to request an API token for the project from your REDCap administrator, and that page will also display your API token if one has already been assigned. If you do not see a link for the API page on your project's left-hand menu, then someone must first give you API privileges within the project (via the project's User Rights page).")
+    .setHelpText("To obtain an API token for a project in REDCap, you need to follow a few steps. First, navigate to the specific project you want to connect to. Once you're on the project page, look for the "API" link in the Applications sidebar. Clicking on this link will take you to the API page. On this page, you have the option to request an API token for the project from your REDCap administrator. If an API token has already been assigned to you, it will be displayed on the API page as well. However, if you don't see the API link in your project's left-hand menu, it means you don't have API privileges within the project. In this case, you'll need someone with API privileges to grant you access via the project's User Rights page. Once you have the API token, you can use it to authenticate and connect to the project in the REDCap-LookerStudio-Connector.")
     .setPlaceholder('xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx');
           
   config
